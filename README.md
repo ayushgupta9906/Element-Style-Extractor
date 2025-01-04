@@ -9,6 +9,8 @@ This JavaScript script allows you to inspect and interact with web elements on a
 - View a rendered preview of the clicked element.
 - Option to close the action menu.
 
+![Element Style Extractor](https://github.com/ayushgupta9906/Element-Style-Extractor/blob/sae/IMG.jpg)
+
 ## Methods to Run the Script
 
 ### Method 1: Running the Script in the Browser Console
@@ -40,7 +42,7 @@ If you'd prefer to use this as a browser extension, follow the steps below to lo
 1. Create a new folder and name it `web-element-inspector`.
 2. Inside the folder, create the following files:
    - `manifest.json`
-   - `content.js`
+   - `script.js`
 
 #### 1. `manifest.json` file:
 
@@ -77,5 +79,3 @@ If you'd prefer to use this as a browser extension, follow the steps below to lo
     }
   ]
 }
-
-
